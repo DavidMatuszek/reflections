@@ -3,3 +3,7 @@ A .git directory is created. So git knows what it's doing.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I frankly don't see much value. I liked Mercurial better.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By using 'git diff' with no arguments.
+
