@@ -1,3 +1,6 @@
 There should be some text here, I think. The "Commit New File"
 button doesn't seem to do anything, so maybe adding text will fix that.
 Yes, it did.
+
+When would you want to use a remote repository rather than keeping all your work local?
+When you are not on your ususal computer.
